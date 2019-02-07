@@ -61,7 +61,7 @@ then we can got a filled document, here we save it as a pdf document.
 
 ## Use xlreport as ImagePy Plugin
 
-[ImagePy](https://github.com/Image-Py/imagepy) is an Image Process Framework written in Python. I write xlreprot as ImagePy's report plugin, we can open image, do filter, analysis, and fill the image and table in template. You can also try [ImagePy](https://github.com/Image-Py/imagepy).
+[ImagePy](https://github.com/Image-Py/imagepy) is an Image Process Framework written in Python. I write xlreprot as ImagePy's report plugin, we can open image, do filter, analysis, and fill the image and table in template. **ImagePy's report will parse the template, and show a parameter dialog**, just fill basic information, select the image or table, then generate! You can also try [ImagePy](https://github.com/Image-Py/imagepy).
 
 ![](http://idoc.imagepy.org/demoplugin/37.png)
 
